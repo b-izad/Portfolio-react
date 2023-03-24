@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-react/static/css/main.0fe36efa.css",
+    "main.js": "/Portfolio-react/static/js/main.f0a87ee0.js",
+    "static/media/python.png": "/Portfolio-react/static/media/python.738bcd0da5f5b0687795.png",
+    "static/media/react.png": "/Portfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/pishi.jpeg": "/Portfolio-react/static/media/pishi.3f96e4006fad2fd9b11b.jpeg",
+    "static/media/github.png": "/Portfolio-react/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/live-chat.jpeg": "/Portfolio-react/static/media/live-chat.a456ccd8763cdff306f3.jpeg",
+    "static/media/html.png": "/Portfolio-react/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio-react/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/books.jpeg": "/Portfolio-react/static/media/books.042d2762a877debe118c.jpeg",
+    "static/media/javascript.png": "/Portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio-react/index.html",
+    "main.0fe36efa.css.map": "/Portfolio-react/static/css/main.0fe36efa.css.map",
+    "main.f0a87ee0.js.map": "/Portfolio-react/static/js/main.f0a87ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe36efa.css",
+    "static/js/main.f0a87ee0.js"
+  ]
+}
