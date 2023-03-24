@@ -20,7 +20,7 @@ export const About = () => {
           </div>
           <div>
             <p>
-            I am highly motivated to create exceptional products that can make a positive impact on people's lives. With my expertise in software engineering, I specialize in crafting tailored solutions for a diverse range of clients, including individuals, small businesses, and large corporations. Just envision the possibilities of having a software expert readily available to help you achieve your goals.
+            I am highly motivated to create exceptional products that can make a positive impact on people's lives. With my expertise in software engineering, I specialize in crafting tailored solutions for a diverse range of clients, including individuals, small businesses, and large corporations.
             </p>
           </div>
           <div className=" text-4xl font-bold">
